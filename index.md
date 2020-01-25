@@ -30,8 +30,26 @@ West´s Bahama Mamas GmbH verdient sich sein Geld durch verschiedene Arbeiten da
 - Coco Mama= Kokosnuss
 - Vodkahama = Vodka + ?
 
+### Parkplätze 
+Das sind die Parkplätze für die Eigentümer des Bahama Mama GmbH und sind für ViP vorgesehen .
 
-**Bold** and _Italic_ and `Code` text
+### Türen
 
-[Link](url) and ![Image](src)
-```
+Schlüssel für die haustüren
+
+### dresscode
+Vernünftige Kleidung (Keine Jogger oder Schlabber Oberteile)
+
+### Eigenen Raum 
+
+zu verwaltung des Geschäfts (Büro)
+
+### Getränke/Essen Karten sind vorhanden !!
+
+[ in Karte einfügen West Special,Bamama Joe, Starkes Zeug--> Vodka, Tiquila, 
+
+### Logo am Mischpult 
+
+hinzufügen ( Wenn es möglich ist )
+
+
