@@ -4,6 +4,7 @@ Sehr geehrte Handelskammer hiermit möchte ich ihnen folgendes Konzept ihnen unt
 
 ### Lager für Bahama Mamas 
 
+Wir benötigen ein Lagerraum für alle getränke und alles essen. sowie gegenstände der mitarbeiter und inhaber.
 
 ### Buchhaltung mit Google Exel vorstellung ( Link Exel hinzufügen )
  
@@ -52,4 +53,7 @@ zu verwaltung des Geschäfts (Büro)
 
 hinzufügen ( Wenn es möglich ist )
 
+### Bilder
+
+...
 
