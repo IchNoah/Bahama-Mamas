@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Bahama Mamas Startseite
 
-You can use the [editor on GitHub](https://github.com/IchNoah/bahama-mamas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sehr geehrte Handelskammer hiermit möchte ich ihnen folgendes Konzept ihnen unterbreiten. Es geht um die Discothek West´s Bahama Mamas. Ich habe mir sehr gründliche Gedanken gemacht über meine Situation und bin zu dem Entschluss gekommen das Selbständigkeit für mich das beste ist. Deswegen sind hier meine Vorschläge für das neue Bahama Mamas.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lager für Bahama Mamas 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Buchhaltung mit Google Exel vorstellung ( Link Exel hinzufügen )
+ 
+- Rechnungssystem per Elektronischer Bezahlung (Trinkgeld Bar)
+- Verkaufs Rechnung ist Einkaufspreis plus Gewinn ist Verkaufspreis 
+- Firmenkonto plus vorstellung an marketing und buchhaltung 
+- Personalsystem 
+- Strichliste einführen für Mitarbeiter für die Verkaufsprodukte 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Programm 
 
-- Bulleted
-- List
+Lässig party, mit manchmal Party plus Motto
 
-1. Numbered
-2. List
+
+### Das Unternehmen 
+
+West´s Bahama Mamas GmbH verdient sich sein Geld durch verschiedene Arbeiten dazu zählen der gastronomische  Verkauf von Lebensmittel und Getränken 
+
+
+### Getränke
+
+- Bamama Joes =Bananen
+- Coco Mama= Kokosnuss
+- Vodkahama = Vodka + ?
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IchNoah/bahama-mamas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
